@@ -4,7 +4,7 @@
         <link>https://attack-jiangyou.github.io/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>proletariat.cui@foxmail.com (Cui)</managingEditor>
-            <webMaster>proletariat.cui@foxmail.com (Cui)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 20 Mar 2024 10:11:34 &#43;0800</lastBuildDate>
+            <webMaster>proletariat.cui@foxmail.com (Cui)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 27 Mar 2024 15:01:00 &#43;0800</lastBuildDate>
             <atom:link href="https://attack-jiangyou.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>主题文档 - 基本概念</title>
@@ -13,6 +13,16 @@
     <author>Dillon</author>
     <guid>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-%E5%9F%BA%E6%9C%AC%E6%A6%82%E5%BF%B5/</guid>
     <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
+</item>
+<item>
+    <title>toml配置模板</title>
+    <link>https://attack-jiangyou.github.io/toml_test/</link>
+    <pubDate>Mon, 27 Mar 2023 15:04:00 &#43;0800</pubDate>
+    <author>ASD</author>
+    <guid>https://attack-jiangyou.github.io/toml_test/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/1.png" referrerpolicy="no-referrer">
+            </div>本文介绍Hugo中的扉页（Front Matter）与原型（Archetypes），以及如何简单地使用它们。]]></description>
 </item>
 <item>
     <title>主题文档 - 内容</title>
@@ -49,7 +59,7 @@
 <item>
     <title>主题文档 - mermaid Shortcode</title>
     <link>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-mermaid-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 15:29:59 &#43;0800</pubDate>
+    <pubDate>Sun, 03 Mar 2024 15:29:59 &#43;0800</pubDate>
     <author>Dillon</author>
     <guid>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-mermaid-shortcode/</guid>
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.11" rel="noopener noreffer" target="_blank"></a>
@@ -82,16 +92,6 @@
     <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
 <p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer">Mapbox GL JS</a>
  库提供互动式地图的功能.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - music Shortcode</title>
-    <link>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-music-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 12:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-music-shortcode/</guid>
-    <description><![CDATA[<p><code>music</code> shortcode 基于 <a href="https://github.com/MoePlayer/APlayer" target="_blank" rel="noopener noreffer">APlayer</a>
- 和 <a href="https://github.com/metowolf/MetingJS" target="_blank" rel="noopener noreffer">MetingJS</a>
- 库提供了一个内嵌的响应式音乐播放器.</p>]]></description>
 </item>
 </channel>
 </rss>

@@ -4,7 +4,31 @@
         <link>https://attack-jiangyou.github.io/tags/</link>
         <description>Tags - 标签 - 崔崔的博客</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>proletariat.cui@foxmail.com (Cui)</managingEditor>
-            <webMaster>proletariat.cui@foxmail.com (Cui)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</lastBuildDate><atom:link href="https://attack-jiangyou.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>proletariat.cui@foxmail.com (Cui)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 03 Mar 2024 15:29:59 &#43;0800</lastBuildDate><atom:link href="https://attack-jiangyou.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Shortcodes</title>
+    <link>https://attack-jiangyou.github.io/tags/shortcodes/</link>
+    <pubDate>Sun, 03 Mar 2024 15:29:59 &#43;0800</pubDate>
+    <author>Cui</author>
+    <guid>https://attack-jiangyou.github.io/tags/shortcodes/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Hugo</title>
+    <link>https://attack-jiangyou.github.io/tags/hugo/</link>
+    <pubDate>Wed, 21 Jun 2023 23:04:00 &#43;0800</pubDate>
+    <author>Cui</author>
+    <guid>https://attack-jiangyou.github.io/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>ASD</title>
+    <link>https://attack-jiangyou.github.io/tags/asd/</link>
+    <pubDate>Mon, 27 Mar 2023 15:04:00 &#43;0800</pubDate>
+    <author>Cui</author>
+    <guid>https://attack-jiangyou.github.io/tags/asd/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
     <title>安装</title>
     <link>https://attack-jiangyou.github.io/tags/installation/</link>
     <pubDate>Fri, 06 Mar 2020 21:40:32 &#43;0800</pubDate>
@@ -37,14 +61,6 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>shortcodes</title>
-    <link>https://attack-jiangyou.github.io/tags/shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:59 &#43;0800</pubDate>
-    <author>Cui</author>
-    <guid>https://attack-jiangyou.github.io/tags/shortcodes/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
     <title>HTML</title>
     <link>https://attack-jiangyou.github.io/tags/html/</link>
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
@@ -53,7 +69,7 @@
     <description><![CDATA[]]></description>
 </item>
 <item>
-    <title>emoji</title>
+    <title>Emoji</title>
     <link>https://attack-jiangyou.github.io/tags/emoji/</link>
     <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
     <author>Cui</author>
