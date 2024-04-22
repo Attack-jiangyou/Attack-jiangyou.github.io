@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>学习SQL注入技巧 - 标签 - 崔崔的博客</title>
+        <link>https://attack-jiangyou.github.io/tags/%E5%AD%A6%E4%B9%A0sql%E6%B3%A8%E5%85%A5%E6%8A%80%E5%B7%A7/</link>
+        <description>学习SQL注入技巧 - 标签 - 崔崔的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>proletariat.cui@foxmail.com (Cui)</managingEditor>
+            <webMaster>proletariat.cui@foxmail.com (Cui)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 03 Apr 2023 16:04:00 &#43;0800</lastBuildDate><atom:link href="https://attack-jiangyou.github.io/tags/%E5%AD%A6%E4%B9%A0sql%E6%B3%A8%E5%85%A5%E6%8A%80%E5%B7%A7/" rel="self" type="application/rss+xml" /><item>
+    <title>SQL_inject</title>
+    <link>https://attack-jiangyou.github.io/posts/sql_inject/</link>
+    <pubDate>Mon, 03 Apr 2023 16:04:00 &#43;0800</pubDate>
+    <author>Cui</author>
+    <guid>https://attack-jiangyou.github.io/posts/sql_inject/</guid>
+    <description><![CDATA[SQL]]></description>
+</item>
+<item>
+    <title>SQLMAP</title>
+    <link>https://attack-jiangyou.github.io/posts/sqlmap_english/</link>
+    <pubDate>Mon, 27 Mar 2023 23:04:00 &#43;0800</pubDate>
+    <author>Cui</author>
+    <guid>https://attack-jiangyou.github.io/posts/sqlmap_english/</guid>
+    <description><![CDATA[sasd阿萨大时代]]></description>
+</item>
+</channel>
+</rss>

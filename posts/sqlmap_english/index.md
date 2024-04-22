@@ -9,3 +9,4 @@
   
 3.POST parameter 'token' appears to hold anti-CSRF token.Do you want sqlmap to automatically update it in further requests?  
 POST参数'token' 看起来似乎用于防御CSRF攻击，你是否想要sqlmap在进一步的测试中改变它的值？  
+

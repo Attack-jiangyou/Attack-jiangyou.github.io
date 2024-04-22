@@ -13,6 +13,16 @@
     <description><![CDATA[<p>探索 Hugo - <strong>LoveIt</strong> 主题的全部内容和背后的核心概念.</p>]]></description>
 </item>
 <item>
+    <title>白嫖金鱼</title>
+    <link>https://attack-jiangyou.github.io/get_gold_fish_for_free/</link>
+    <pubDate>Wed, 29 Mar 2023 15:10:00 &#43;0800</pubDate>
+    <author>Cui</author>
+    <guid>https://attack-jiangyou.github.io/get_gold_fish_for_free/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/1.png" referrerpolicy="no-referrer">
+            </div>白嫖金鱼。]]></description>
+</item>
+<item>
     <title>toml配置模板</title>
     <link>https://attack-jiangyou.github.io/toml_test/</link>
     <pubDate>Mon, 27 Mar 2023 15:04:00 &#43;0800</pubDate>
@@ -80,16 +90,6 @@
     <guid>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-echarts-shortcode/</guid>
     <description><![CDATA[<p><code>echarts</code> shortcode 使用 <a href="https://echarts.apache.org/" target="_blank" rel="noopener noreffer">ECharts</a>
  库提供数据可视化的功能.</p>]]></description>
-</item>
-<item>
-    <title>主题文档 - mapbox Shortcode</title>
-    <link>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-mapbox-shortcode/</link>
-    <pubDate>Tue, 03 Mar 2020 13:29:59 &#43;0800</pubDate>
-    <author>Dillon</author>
-    <guid>https://attack-jiangyou.github.io/posts/%E4%B8%BB%E9%A2%98%E6%96%87%E6%A1%A3-mapbox-shortcode/</guid>
-    <description><![CDATA[<a href="https://github.com/dillonzq/LoveIt/releases/tag/v0.2.0" rel="noopener noreffer" target="_blank"></a>
-<p><code>mapbox</code> shortcode 使用 <a href="https://docs.mapbox.com/mapbox-gl-js" target="_blank" rel="noopener noreffer">Mapbox GL JS</a>
- 库提供互动式地图的功能.</p>]]></description>
 </item>
 </channel>
 </rss>
